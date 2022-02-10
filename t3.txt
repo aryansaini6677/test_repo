@@ -1,5 +1,4 @@
-hello world
-<<<<<<< HEAD
-=======
+hello world im back
 
->>>>>>> dev
+
+
